@@ -5,4 +5,4 @@ O exercício proposto se encontra [nesse link](II.pdf).
 
 ### Diagrama de classes
 Clique na imagem para melhor visualização
-![Class Diagram1](CD2.png)
+![Class Diagram2](CD2.png)
